@@ -1,0 +1,2 @@
+bases:
+  - 'git@github.com/so-jelly/kustomize/repo/remote'
